@@ -7,3 +7,5 @@
 - 📫 How to reach me: [xiaorui.cc](http://xiaorui.cc)
 
 [![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=rfyiamcool)](https://github.com/rfyiamcool)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rfyiamcool.rfyiamcool" alt="visitor badge"/> 
