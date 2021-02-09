@@ -1,6 +1,6 @@
 ### Hi boys 👋
 
-![](https://github.com/rfyiamcool/rfyiamcool/header.png)
+![](https://github.com/rfyiamcool/rfyiamcool/blob/master/header.png)
 
 - 🌈 I’m currently working on home. 😎
 - 🤔 I'm thinking about how to make more+ money. 😁
