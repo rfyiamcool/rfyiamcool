@@ -1,7 +1,8 @@
 ### Hi boys 👋
 
+![](https://github.com/rfyiamcool/rfyiamcool/header.png)
+
 - 🌈 I’m currently working on home. 😎
-- 🐳 I’m currently learning rust\k8s. 😅
 - 🤔 I'm thinking about how to make more+ money. 😁
 - 💬 Ask me about `da bao jian`. 😍
 - 📫 How to reach me: [xiaorui.cc](http://xiaorui.cc)
