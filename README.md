@@ -2,6 +2,8 @@
 
 ### Hi boys 👋
 
+[![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/rfyiamcool)
+
 I ❤ Open Source. I love Vim and Go.
 
 - 🌈 I'm currently working on home. 😎
