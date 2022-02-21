@@ -6,7 +6,7 @@
 
 I ❤ Open Source. I love Vim and Go.
 
-- 🌈 I'm currently working on home. 😎
+- 🌈 I'm currently working from home. 😎
 - 🤔 I'm thinking about how to make more money. 😁
 - 💬 Ask me about `da bao jian`. 😍
 - 📫 How to reach me. [xiaorui.cc](http://xiaorui.cc)
