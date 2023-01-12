@@ -5,12 +5,17 @@
 [![Github](https://img.shields.io/github/followers/rfyiamcool?label=Follow&style=social)](https://github.com/rfyiamcool)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rfyiamcool.rfyiamcool" alt="visitor badge"/>  
 
-`I ❤ Open Source.`
+`I ❤ Open Open Source.`
 
 - 🌈 I'm currently working at home. 😎
 - 🤔 I’m currently using `Vim` `GoLang` `Python` <del>`Lua`</del> `K8s` 😁
 - ✈️ Open to Remote Job Opportunities 🍻
 - 📫 How to reach me. [xiaorui.cc](https://xiaorui.cc)
+
+
+`I ❤ Open Cloud Native.`
+
+[深入源码分析 kubernetes v1.26.0 的实现原理 (已更新 20 章节)](https://github.com/rfyiamcool/notes#kubernetes)
 
 <!--
 ![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfyiamcool&show_icons=true&count_private=true&line_height=21&hide_border=true&theme=vue)
