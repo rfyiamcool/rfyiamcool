@@ -15,7 +15,9 @@
 
 `I ❤ Open Cloud Native.`
 
-[深入源码分析 kubernetes v1.26.0 的实现原理 (已更新 20 章节)](https://github.com/rfyiamcool/notes#kubernetes)
+- [深入源码分析 kubernetes v1.26.0 的实现原理 (预计 40 个章节, 已更新 20 章节)](https://github.com/rfyiamcool/notes#kubernetes)
+- [深入源码分析 traefik 的设计与实现](https://github.com/rfyiamcool/notes#traefik)
+- ...
 
 <!--
 ![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfyiamcool&show_icons=true&count_private=true&line_height=21&hide_border=true&theme=vue)
