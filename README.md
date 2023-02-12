@@ -36,3 +36,10 @@
 <a href="https://github.com/rfyiamcool/go-netflow">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=rfyiamcool&repo=go-netflow&theme=buefy" />
 </a>
+<a href="https://github.com/rfyiamcool/raft-badger">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=rfyiamcool&repo=raft-badger&theme=buefy" />
+</a>
+<a href="https://github.com/rfyiamcool/notes">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=rfyiamcool&repo=notes&theme=buefy" />
+</a>
+
