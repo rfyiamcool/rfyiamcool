@@ -18,6 +18,7 @@
 - [深入源码分析 kubernetes v1.26.0 的实现原理 (预计 50 个章节, 现已更新 28 个章节)](https://github.com/rfyiamcool/notes#kubernetes)
 - [深入源码分析 traefik 的设计与实现](https://github.com/rfyiamcool/notes#traefik)
 - [深入源码分析 raft 的设计与实现](https://github.com/rfyiamcool/notes#hashcorp-raft)
+- [深入源码分析 golang badgerDB 的设计与实现](https://github.com/rfyiamcool/notes#golang-badger)
 - ...
 
 <!--
