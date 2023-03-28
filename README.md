@@ -19,6 +19,7 @@
 - [深入源码分析 traefik 的设计与实现](https://github.com/rfyiamcool/notes#traefik)
 - [深入源码分析 raft 的设计与实现](https://github.com/rfyiamcool/notes#hashcorp-raft)
 - [深入源码分析 golang badgerDB 的设计与实现](https://github.com/rfyiamcool/notes#golang-badger)
+- [深入源码分析 golang bitcask roseDB 的设计与实现](https://github.com/rfyiamcool/notes#golang-badger)
 - ...
 
 <!--
