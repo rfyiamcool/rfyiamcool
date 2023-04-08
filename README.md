@@ -13,7 +13,7 @@
 - 📫 How to reach me. [xiaorui.cc](https://xiaorui.cc)
 
 
-`I ❤ Open Cloud Native.`
+`🚗 I ❤ Open Cloud Native.`
 
 - [深入源码分析 kubernetes v1.26.0 的实现原理 (预计 50 个章节, 现已更新 28 个章节)](https://github.com/rfyiamcool/notes#kubernetes)
 - [深入源码分析 traefik 的设计与实现](https://github.com/rfyiamcool/notes#traefik)
@@ -22,7 +22,7 @@
 - [深入源码分析 golang bitcask roseDB 的设计与实现](https://github.com/rfyiamcool/notes#golang-badger)
 - ...
 
-`🍔 Recent 5 articles.`
+`🌈 Recent 5 articles.`
 
 - [golang bigcache 高性能无 GC 开销的缓存设计实现](https://github.com/rfyiamcool/notes/blob/main/golang_bigcache_cache.md)
 - [golang ristretto 高性能缓存的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/golang_ristretto_cache.md)
@@ -31,6 +31,12 @@
 - [golang deque 高性能双端队列的实现](https://github.com/rfyiamcool/notes/blob/main/golang_deque.md)
 - [让人迷糊的socket udp连接问题](https://github.com/rfyiamcool/notes/blob/main/udp_connect_refuse.md)
 - ...
+
+`🦀 Recently contributing to projects.`
+
+- [https://github.com/cespare/xxhash](https://github.com/cespare/xxhash)
+- [https://github.com/dgraph-io/badger](https://github.com/dgraph-io/badger)
+- [https://github.com/rfyiamcool/pgcacher](https://github.com/rfyiamcool/pgcacher)
 
 <!--
 ![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfyiamcool&show_icons=true&count_private=true&line_height=21&hide_border=true&theme=vue)
