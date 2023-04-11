@@ -35,6 +35,7 @@
 
 `🦀 Recently contributing to projects.`
 
+- [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
 - [https://github.com/cespare/xxhash](https://github.com/cespare/xxhash)
 - [https://github.com/dgraph-io/badger](https://github.com/dgraph-io/badger)
 - [https://github.com/rfyiamcool/pgcacher](https://github.com/rfyiamcool/pgcacher)
