@@ -20,18 +20,18 @@
 - [深入源码分析 raft 的设计与实现](https://github.com/rfyiamcool/notes#hashcorp-raft)
 - [深入源码分析 golang badgerDB 的设计与实现](https://github.com/rfyiamcool/notes#golang-badger)
 - [深入源码分析 golang bitcask roseDB 的设计与实现](https://github.com/rfyiamcool/notes#golang-badger)
-- ...
+- [深入源码分析 golang 高性能缓存的设计实现](https://github.com/rfyiamcool/notes#golang-%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%93%E5%AD%98)
 
 `🌈 Recent 5 articles.`
 
-- [源码分析 hashicorp go-memdb 存储的事务及索引的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/go-memdb.md)
+- [hashicorp go-memdb 存储的事务及索引的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/go-memdb.md)
 - [golang bigcache 高性能无 GC 开销的缓存设计实现](https://github.com/rfyiamcool/notes/blob/main/golang_bigcache_cache.md)
 - [golang ristretto 高性能缓存的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/golang_ristretto_cache.md)
 - [如何分析查看 page cahce 内存中缓存了哪些文件 ( mmap + mincore )?](https://github.com/rfyiamcool/notes/blob/main/which_files_occupy_page_cache_memory.md)
 - [golang wal 预写日志的设计实现](https://github.com/rfyiamcool/notes/blob/main/golang_wal_code.md)
 - [golang deque 高性能双端队列的实现](https://github.com/rfyiamcool/notes/blob/main/golang_deque.md)
 - [让人迷糊的socket udp连接问题](https://github.com/rfyiamcool/notes/blob/main/udp_connect_refuse.md)
-- ...
+- [高并发场景下disk io造成的高时延问题](https://github.com/rfyiamcool/notes/blob/main/reduce_disk_latency.md)
 
 `🦀 Recently contributing to projects.`
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
