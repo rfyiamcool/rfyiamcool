@@ -34,6 +34,8 @@
 - [高并发场景下disk io造成的高时延问题](https://github.com/rfyiamcool/notes/blob/main/reduce_disk_latency.md)
 
 `🦀 Recently contributing to projects.`
+
+- [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
 - [https://github.com/cespare/xxhash](https://github.com/cespare/xxhash)
