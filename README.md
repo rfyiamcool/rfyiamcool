@@ -35,6 +35,7 @@
 
 `🦀 Recently contributing to projects.`
 
+- [https://github.com/flower-corp/rosedb](https://github.com/flower-corp/rosedb)
 - [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
