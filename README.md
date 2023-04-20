@@ -38,6 +38,7 @@
 
 - [https://github.com/flower-corp/rosedb](https://github.com/flower-corp/rosedb)
 - [https://github.com/flower-corp/minidb](https://github.com/flower-corp/minidb)
+- [https://github.com/nutsdb/nutsdb](https://github.com/nutsdb/nutsdb)
 - [https://github.com/chenjiandongx/grogudb](https://github.com/chenjiandongx/grogudb)
 - [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
