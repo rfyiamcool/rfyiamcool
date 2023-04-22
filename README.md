@@ -44,6 +44,7 @@
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
 - [https://github.com/cespare/xxhash](https://github.com/cespare/xxhash)
+- [https://github.com/florianl/go-tc (traffic control)](https://github.com/florianl/go-tc)
 - [https://github.com/dgraph-io/badger](https://github.com/dgraph-io/badger)
 - [https://github.com/rfyiamcool/pgcacher](https://github.com/rfyiamcool/pgcacher)
 - [https://github.com/Allenxuxu/gev](https://github.com/Allenxuxu/gev)
