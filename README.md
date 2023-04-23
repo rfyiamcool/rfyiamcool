@@ -33,6 +33,7 @@
 - [golang deque 高性能双端队列的实现](https://github.com/rfyiamcool/notes/blob/main/golang_deque.md)
 - [让人迷糊的socket udp连接问题](https://github.com/rfyiamcool/notes/blob/main/udp_connect_refuse.md)
 - [高并发场景下disk io造成的高时延问题](https://github.com/rfyiamcool/notes/blob/main/reduce_disk_latency.md)
+- [golang gomaxprocs 不匹配引起 runtime 调度性能损耗](https://github.com/rfyiamcool/notes/blob/main/golang_runtime_maxprocs.md)
 
 `🦀 Recently contributing to projects.`
 
