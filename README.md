@@ -28,6 +28,7 @@
 - [hashicorp go-memdb 存储的事务及索引的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/go-memdb.md)
 - [golang bigcache 高性能无 GC 开销的缓存设计实现](https://github.com/rfyiamcool/notes/blob/main/golang_bigcache_cache.md)
 - [golang ristretto 高性能缓存的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/golang_ristretto_cache.md)
+- [优化 lockfree 中 atomic cas spin 忙轮询自旋引发的性能开销](https://github.com/rfyiamcool/notes/blob/main/optimize_atomic_cas_spin.md)
 - [如何分析查看 page cahce 内存中缓存了哪些文件 ( mmap + mincore )?](https://github.com/rfyiamcool/notes/blob/main/which_files_occupy_page_cache_memory.md)
 - [golang wal 预写日志的设计实现](https://github.com/rfyiamcool/notes/blob/main/golang_wal_code.md)
 - [golang deque 高性能双端队列的实现](https://github.com/rfyiamcool/notes/blob/main/golang_deque.md)
