@@ -43,6 +43,7 @@
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
 - [https://github.com/juicedata/juicefs](https://github.com/juicedata/juicefs)
+- [https://github.com/phuslu/log](https://github.com/phuslu/log)
 - [https://github.com/alitto/pond](https://github.com/alitto/pond)
 - [https://github.com/nutsdb/nutsdb](https://github.com/nutsdb/nutsdb)
 - [https://github.com/chenjiandongx/grogudb](https://github.com/chenjiandongx/grogudb)
