@@ -42,7 +42,7 @@
 - [https://github.com/flower-corp/minidb](https://github.com/flower-corp/minidb)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
-- - [https://github.com/juicedata/juicefs](https://github.com/juicedata/juicefs)
+- [https://github.com/juicedata/juicefs](https://github.com/juicedata/juicefs)
 - [https://github.com/phuslu/log](https://github.com/phuslu/log)
 - [https://github.com/redis/go-redis](https://github.com/redis/go-redis)
 - [https://github.com/flower-corp/wal](https://github.com/flower-corp/wal)
