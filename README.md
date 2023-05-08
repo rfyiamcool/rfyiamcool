@@ -47,6 +47,7 @@
 - [https://github.com/phuslu/log](https://github.com/phuslu/log)
 - [https://github.com/redis/go-redis](https://github.com/redis/go-redis)
 - [https://github.com/flower-corp/wal](https://github.com/flower-corp/wal)
+- [https://github.com/faabiosr/cachego](https://github.com/faabiosr/cachego)
 - [https://github.com/alitto/pond](https://github.com/alitto/pond)
 - [https://github.com/nutsdb/nutsdb](https://github.com/nutsdb/nutsdb)
 - [https://github.com/chenjiandongx/grogudb](https://github.com/chenjiandongx/grogudb)
