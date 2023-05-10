@@ -49,6 +49,7 @@
 - [https://github.com/flower-corp/wal](https://github.com/flower-corp/wal)
 - [https://github.com/faabiosr/cachego](https://github.com/faabiosr/cachego)
 - [https://github.com/alitto/pond](https://github.com/alitto/pond)
+- [https://github.com/elastic/go-freelru](https://github.com/elastic/go-freelru)
 - [https://github.com/nutsdb/nutsdb](https://github.com/nutsdb/nutsdb)
 - [https://github.com/chenjiandongx/grogudb](https://github.com/chenjiandongx/grogudb)
 - [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
