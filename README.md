@@ -51,6 +51,7 @@
 - [https://github.com/alitto/pond](https://github.com/alitto/pond)
 - [https://github.com/elastic/go-freelru](https://github.com/elastic/go-freelru)
 - [https://github.com/nutsdb/nutsdb](https://github.com/nutsdb/nutsdb)
+- [https://github.com/dgraph-io/ristretto](https://github.com/dgraph-io/ristretto)
 - [https://github.com/lxzan/gws](https://github.com/lxzan/gws)
 - [https://github.com/chenjiandongx/grogudb](https://github.com/chenjiandongx/grogudb)
 - [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
