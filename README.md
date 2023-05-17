@@ -41,6 +41,7 @@
 - [https://github.com/flower-corp/rosedb](https://github.com/flower-corp/rosedb)
 - [https://github.com/go-co-op/gocron](https://github.com/go-co-op/gocron)
 - [https://github.com/go-co-op/gocron-redis-lock](https://github.com/go-co-op/gocron-redis-lock)
+- [https://github.com/lesismal/nbio](https://github.com/lesismal/nbio)
 - [https://github.com/flower-corp/minidb](https://github.com/flower-corp/minidb)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
