@@ -56,6 +56,7 @@
 - [https://github.com/nutsdb/nutsdb](https://github.com/nutsdb/nutsdb)
 - [https://github.com/dgraph-io/ristretto](https://github.com/dgraph-io/ristretto)
 - [https://github.com/lxzan/gws](https://github.com/lxzan/gws)
+- [https://github.com/vearne/gin-timeout](https://github.com/vearne/gin-timeout)
 - [https://github.com/chenjiandongx/grogudb](https://github.com/chenjiandongx/grogudb)
 - [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
 - [https://github.com/cespare/xxhash](https://github.com/cespare/xxhash)
