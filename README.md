@@ -51,6 +51,7 @@
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
 - [https://github.com/juicedata/juicefs](https://github.com/juicedata/juicefs)
 - [https://github.com/phuslu/log](https://github.com/phuslu/log)
+- [https://github.com/dolthub/swiss](https://github.com/dolthub/swiss)
 - [https://github.com/redis/go-redis](https://github.com/redis/go-redis)
 - [https://github.com/lesismal/go-websocket-benchmark](https://github.com/lesismal/go-websocket-benchmark)
 - [https://github.com/rosedblabs/wal](https://github.com/rosedblabs/wal)
