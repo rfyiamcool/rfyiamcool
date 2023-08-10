@@ -51,6 +51,7 @@
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go)
 - [https://github.com/juicedata/juicefs](https://github.com/juicedata/juicefs)
+- [https://github.com/grafana/dskit](https://github.com/grafana/dskit)
 - [https://github.com/phuslu/log](https://github.com/phuslu/log)
 - [https://github.com/dolthub/swiss](https://github.com/dolthub/swiss)
 - [https://github.com/volcano-sh/volcano](https://github.com/volcano-sh/volcano)
