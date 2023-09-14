@@ -84,6 +84,7 @@
 - [https://github.com/florianl/go-conntrack](https://github.com/florianl/go-conntrack)
 - [https://github.com/dgraph-io/badger](https://github.com/dgraph-io/badger)
 - [https://github.com/xxjwxc/gowp](https://github.com/xxjwxc/gowp)
+- [https://github.com/caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [https://github.com/rfyiamcool/pgcacher](https://github.com/rfyiamcool/pgcacher)
 - [https://github.com/Allenxuxu/gev](https://github.com/Allenxuxu/gev)
 
