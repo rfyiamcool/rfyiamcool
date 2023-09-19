@@ -78,6 +78,7 @@
 - [https://github.com/gin-contrib/timeout](https://github.com/gin-contrib/timeout)
 - [https://github.com/vearne/gin-timeout](https://github.com/vearne/gin-timeout)
 - [https://github.com/chenjiandongx/grogudb](https://github.com/chenjiandongx/grogudb)
+- [https://github.com/caarlos0/env](https://github.com/caarlos0/env)
 - [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
 - [https://github.com/cespare/xxhash](https://github.com/cespare/xxhash)
 - [https://github.com/florianl/go-tc (traffic control)](https://github.com/florianl/go-tc)
