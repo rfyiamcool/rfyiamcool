@@ -48,6 +48,7 @@
 - [https://github.com/lesismal/nbio](https://github.com/lesismal/nbio)
 - [https://github.com/shaovie/goev](https://github.com/shaovie/goev)
 - [https://github.com/net-byte/vtun](https://github.com/net-byte/vtun)
+- [https://github.com/go-faker/faker](https://github.com/go-faker/faker)
 - [https://github.com/go-redsync/redsync](https://github.com/go-redsync/redsync/pulls?q=is%3Apr+author%3Arfyiamcool+is%3Aclosed)
 - [https://github.com/IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB)
 - [https://github.com/rosedblabs/minidb](https://github.com/rosedblabs/minidb)
