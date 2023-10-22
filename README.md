@@ -70,6 +70,7 @@
 - [https://github.com/rosedblabs/wal](https://github.com/rosedblabs/wal)
 - [https://github.com/rosedblabs/kvstore-bench](https://github.com/rosedblabs/kvstore-bench)
 - [https://github.com/faabiosr/cachego](https://github.com/faabiosr/cachego)
+- [https://github.com/karlseguin/ccache](https://github.com/karlseguin/ccache)
 - [https://github.com/puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)
 - [https://github.com/liyue201/gostl](https://github.com/liyue201/gostl)
 - [https://github.com/alitto/pond](https://github.com/alitto/pond)
