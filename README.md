@@ -43,6 +43,8 @@
 - [https://github.com/RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller)
 - [https://github.com/RocksLabs/kvrocks-operator](https://github.com/RocksLabs/kvrocks-operator)
 - [https://github.com/go-co-op/gocron-redis-lock](https://github.com/go-co-op/gocron-redis-lock)
+- [https://github.com/go-co-op/gocron-gorm-lock](https://github.com/go-co-op/gocron-gorm-lock)
+- [https://github.com/go-co-op/gocron-etcd-elector](https://github.com/go-co-op/gocron-etcd-elector)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/reugn/go-quartz](https://github.com/reugn/go-quartz)
 - [https://github.com/lesismal/nbio](https://github.com/lesismal/nbio)
