@@ -89,6 +89,7 @@
 - [https://github.com/caarlos0/env](https://github.com/caarlos0/env)
 - [https://github.com/creasty/defaults](https://github.com/creasty/defaults)
 - [https://github.com/cespare/xxhash](https://github.com/cespare/xxhash)
+- [https://github.com/lithammer/shortuuid](https://github.com/lithammer/shortuuid)
 - [https://github.com/florianl/go-tc (traffic control)](https://github.com/florianl/go-tc)
 - [https://github.com/florianl/go-conntrack](https://github.com/florianl/go-conntrack)
 - [https://github.com/dgraph-io/badger](https://github.com/dgraph-io/badger)
