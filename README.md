@@ -48,6 +48,7 @@
 - [https://github.com/go-co-op/gocron-etcd-elector](https://github.com/go-co-op/gocron-etcd-elector)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/reugn/go-quartz](https://github.com/reugn/go-quartz)
+- [https://github.com/gorilla/websocket](https://github.com/gorilla/websocket)
 - [https://github.com/lesismal/nbio](https://github.com/lesismal/nbio)
 - [https://github.com/shaovie/goev](https://github.com/shaovie/goev)
 - [https://github.com/net-byte/vtun](https://github.com/net-byte/vtun)
