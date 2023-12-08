@@ -41,7 +41,7 @@
 - [https://github.com/rosedblabs/rosedb](https://github.com/rosedblabs/rosedb)
 - [https://github.com/go-co-op/gocron](https://github.com/go-co-op/gocron)
 - [https://github.com/apache/skywalking-go](https://github.com/apache/skywalking-go)
-- [https://github.com/RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller)
+- [https://github.com/apache/kvrocks-controller](https://github.com/apache/kvrocks-controller)
 - [https://github.com/RocksLabs/kvrocks-operator](https://github.com/RocksLabs/kvrocks-operator)
 - [https://github.com/go-co-op/gocron-redis-lock](https://github.com/go-co-op/gocron-redis-lock)
 - [https://github.com/go-co-op/gocron-gorm-lock](https://github.com/go-co-op/gocron-gorm-lock)
