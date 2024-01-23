@@ -39,7 +39,7 @@
 `🦀 Recently contributing to projects.`
 
 - [https://github.com/rosedblabs/rosedb](https://github.com/rosedblabs/rosedb)
-- [https://github.com/go-co-op/gocron](https://github.com/go-co-op/gocron)
+- [https://github.com/go-co-op/gocron](https://github.com/go-co-op/gocron) (git reset... 😅)
 - [https://github.com/apache/skywalking-go](https://github.com/apache/skywalking-go)
 - [https://github.com/apache/kvrocks-controller](https://github.com/apache/kvrocks-controller)
 - [https://github.com/RocksLabs/kvrocks-operator](https://github.com/RocksLabs/kvrocks-operator)
@@ -77,6 +77,7 @@
 - [https://github.com/faabiosr/cachego](https://github.com/faabiosr/cachego)
 - [https://github.com/karlseguin/ccache](https://github.com/karlseguin/ccache)
 - [https://github.com/puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)
+- [https://github.com/xitongsys/parquet-go-source](https://github.com/xitongsys/parquet-go-source)
 - [https://github.com/liyue201/gostl](https://github.com/liyue201/gostl)
 - [https://github.com/alitto/pond](https://github.com/alitto/pond)
 - [https://github.com/smallnest/mping](https://github.com/smallnest/mping)
