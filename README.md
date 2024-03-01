@@ -38,6 +38,8 @@
 
 `🦀 Recently contributing to projects.`
 
+- [https://github.com/redis/go-redis](https://github.com/redis/go-redis)
+- [https://github.com/gorilla/websocket](https://github.com/gorilla/websocket)
 - [https://github.com/rosedblabs/rosedb](https://github.com/rosedblabs/rosedb)
 - [https://github.com/go-co-op/gocron](https://github.com/go-co-op/gocron) (git reset... 😅)
 - [https://github.com/apache/skywalking-go](https://github.com/apache/skywalking-go)
@@ -48,10 +50,9 @@
 - [https://github.com/go-co-op/gocron-etcd-elector](https://github.com/go-co-op/gocron-etcd-elector)
 - [https://github.com/bruceshao/lockfree](https://github.com/bruceshao/lockfree)
 - [https://github.com/reugn/go-quartz](https://github.com/reugn/go-quartz)
-- [https://github.com/gorilla/websocket](https://github.com/gorilla/websocket)
 - [https://github.com/lesismal/nbio](https://github.com/lesismal/nbio)
 - [https://github.com/shaovie/goev](https://github.com/shaovie/goev)
-- [作者怕喝茶 https://github.com/net-byte/vtun](https://github.com/net-byte/vtun)
+- [https://github.com/net-byte/vtun](https://github.com/net-byte/vtun) (作者怕喝茶)
 - [https://github.com/quic-go/quic-go](https://github.com/quic-go/quic-go)
 - [https://github.com/go-faker/faker](https://github.com/go-faker/faker)
 - [https://github.com/openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)
@@ -69,7 +70,6 @@
 - [https://github.com/mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map)
 - [https://github.com/volcano-sh/volcano](https://github.com/volcano-sh/volcano)
 - [https://github.com/net-byte/vtun](https://github.com/net-byte/vtun)
-- [https://github.com/redis/go-redis](https://github.com/redis/go-redis)
 - [https://github.com/reugn/async](https://github.com/reugn/async)
 - [https://github.com/lesismal/go-websocket-benchmark](https://github.com/lesismal/go-websocket-benchmark)
 - [https://github.com/rosedblabs/wal](https://github.com/rosedblabs/wal)
