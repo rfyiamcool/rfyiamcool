@@ -66,6 +66,7 @@
 - [https://github.com/juicedata/juicefs](https://github.com/juicedata/juicefs)
 - [https://github.com/grafana/dskit](https://github.com/grafana/dskit)
 - [https://github.com/phuslu/log](https://github.com/phuslu/log)
+- [https://github.com/ContentSquare/chproxy](https://github.com/ContentSquare/chproxy)
 - [https://github.com/adhocore/gronx](https://github.com/adhocore/gronx)
 - [https://github.com/dolthub/swiss](https://github.com/dolthub/swiss)
 - [https://github.com/mhmtszr/concurrent-swiss-map](https://github.com/mhmtszr/concurrent-swiss-map)
