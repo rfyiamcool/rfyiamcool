@@ -89,6 +89,7 @@
 - [https://github.com/lxzan/gws](https://github.com/lxzan/gws)
 - [https://github.com/xitongsys/parquet-go-source](https://github.com/xitongsys/parquet-go-source)
 - [https://github.com/gin-contrib/cache](https://github.com/gin-contrib/cache)
+- [https://github.com/gin-contrib/requestid](https://github.com/gin-contrib/requestid)
 - [https://github.com/gin-contrib/logger](https://github.com/gin-contrib/logger)
 - [https://github.com/gin-contrib/timeout](https://github.com/gin-contrib/timeout)
 - [https://github.com/vearne/gin-timeout](https://github.com/vearne/gin-timeout)
