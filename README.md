@@ -73,6 +73,7 @@
 - [https://github.com/volcano-sh/volcano](https://github.com/volcano-sh/volcano)
 - [https://github.com/net-byte/vtun](https://github.com/net-byte/vtun)
 - [https://github.com/reugn/async](https://github.com/reugn/async)
+- [https://github.com/kitex-contrib/obs-opentelemetry](https://github.com/kitex-contrib/obs-opentelemetry)
 - [https://github.com/lesismal/go-websocket-benchmark](https://github.com/lesismal/go-websocket-benchmark)
 - [https://github.com/rosedblabs/wal](https://github.com/rosedblabs/wal)
 - [https://github.com/rosedblabs/kvstore-bench](https://github.com/rosedblabs/kvstore-bench)
