@@ -80,6 +80,7 @@
 - [https://github.com/faabiosr/cachego](https://github.com/faabiosr/cachego)
 - [https://github.com/karlseguin/ccache](https://github.com/karlseguin/ccache)
 - [https://github.com/puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync)
+- [https://github.com/seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter)
 - [https://github.com/xitongsys/parquet-go-source](https://github.com/xitongsys/parquet-go-source)
 - [https://github.com/liyue201/gostl](https://github.com/liyue201/gostl)
 - [https://github.com/alitto/pond](https://github.com/alitto/pond)
