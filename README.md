@@ -74,6 +74,7 @@
 - [https://github.com/net-byte/vtun](https://github.com/net-byte/vtun)
 - [https://github.com/reugn/async](https://github.com/reugn/async)
 - [https://github.com/kitex-contrib/obs-opentelemetry](https://github.com/kitex-contrib/obs-opentelemetry)
+- [https://github.com/kitex-contrib/kitexcall](https://github.com/kitex-contrib/kitexcall)
 - [https://github.com/lesismal/go-websocket-benchmark](https://github.com/lesismal/go-websocket-benchmark)
 - [https://github.com/rosedblabs/wal](https://github.com/rosedblabs/wal)
 - [https://github.com/rosedblabs/kvstore-bench](https://github.com/rosedblabs/kvstore-bench)
@@ -107,6 +108,7 @@
 - [https://github.com/caarlos0/starcharts](https://github.com/caarlos0/starcharts)
 - [https://github.com/rfyiamcool/pgcacher](https://github.com/rfyiamcool/pgcacher)
 - [https://github.com/Allenxuxu/gev](https://github.com/Allenxuxu/gev)
+- [https://github.com/journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter)
 
 <!--
 ![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfyiamcool&show_icons=true&count_private=true&line_height=21&hide_border=true&theme=vue)
