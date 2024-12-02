@@ -75,6 +75,7 @@
 - [https://github.com/reugn/async](https://github.com/reugn/async)
 - [https://github.com/kitex-contrib/obs-opentelemetry](https://github.com/kitex-contrib/obs-opentelemetry)
 - [https://github.com/kitex-contrib/kitexcall](https://github.com/kitex-contrib/kitexcall)
+- [https://github.com/kitex-contrib/registry-consul](https://github.com/kitex-contrib/registry-consul)
 - [https://github.com/lesismal/go-websocket-benchmark](https://github.com/lesismal/go-websocket-benchmark)
 - [https://github.com/rosedblabs/wal](https://github.com/rosedblabs/wal)
 - [https://github.com/rosedblabs/kvstore-bench](https://github.com/rosedblabs/kvstore-bench)
